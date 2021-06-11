@@ -1,4 +1,4 @@
-let listaCompra = ['rucula', 'agrião', 'alface americana e roxa', 'rabanete', 'tomilho', 'salsão', 'manjericão', 'salvia', 'coentro', 'manga palmer', 'mussarela de bufala', 'azeite extra-virgem' ]
+let listaCompra = ['rucula', 'agrião', 'rabanete', 'tomilho', 'salsão', 'manjericão', 'salvia', 'coentro', 'azeite extra-virgem' ]
 console.log('Esta é a listinha do carnívoro disfarçado de coelho...');
 console.log(listaCompra)
 console.log('Se voce não gostou dessa forma de apresentar a lista vou juntar tudo com uma barra')
@@ -15,7 +15,7 @@ let elemento = listaCompra.length
 let novo = listaCompra.push('salsa')
 console.log(listaCompra)
 console.log('Antes tinhamos ' + elemento + '. Agora temos ' + novo + '.')
-console.log('O comando compras.unshift() adiciona um ou + elementos no inicio da lista, e tambe´m retorna o novo tamanho.')
+console.log('O comando compras.unshift() adiciona um ou + elementos no inicio da lista, e também retorna o novo tamanho.')
 elemento = listaCompra.length
 novo = listaCompra.unshift('acelga')
 console.log(listaCompra)
