@@ -9,9 +9,9 @@ function anima()
         filmes.push (cartoons[0]);
         cartoons.shift()
     }
-     anima();
-     anima();
-     anima();
-     anima();
+anima();
+anima();
+anima();
+anima();
      
-     console.log(filmes)
+console.log(filmes)
