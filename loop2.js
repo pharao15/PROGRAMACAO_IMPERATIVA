@@ -17,3 +17,4 @@ flores.unshift('azaleia');
 flores.push('begonia');
 console.log(' ');
 percorre();
+// pelo que entendi acho que a presença da função percorre atende os microdesafios 2 e 3, então loop2.js resolve?
