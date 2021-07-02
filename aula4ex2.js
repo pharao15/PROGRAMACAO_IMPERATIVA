@@ -12,7 +12,7 @@ function podeSubir (altura, acompanhamento)
                      {
                          console.log('Acesso Negado, altura menor que 1.2');
                      }
-                     else if (acompanhamento==true)
+                     else if (acompanhamento)
                              {   console.log('Acesso Permitido, altura entre 1,2 e 1,4 metro, acompanhado');
                              }
                              else
