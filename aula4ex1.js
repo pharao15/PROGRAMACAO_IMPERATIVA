@@ -6,7 +6,7 @@ function podeSubir (altura,acompanhamento)
     }
     if (altura>=1.2 && altura<1.4)
      {
-         if (acompanhamento==true)
+         if (acompanhamento)
          {
              console.log('Acesso Permitido, altura entre 1,2 e 1,4 metro, acompanhado');
          }
