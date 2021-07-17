@@ -1,0 +1,16 @@
+{
+   "nome":"Carla",
+   "pais":"Brasil",
+   "vero":true,
+   "ddi":55,
+   "estadoSul":[
+      "RS",
+      "SC",
+      "PR"
+   ],
+   "misc":{
+      "a":"portugues",
+      "b":"latino",
+      "c":"BR"
+   }
+}
