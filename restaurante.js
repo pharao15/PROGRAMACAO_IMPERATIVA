@@ -7,7 +7,7 @@ function entrada(){
     console.log('Bem Vindo ao Restaurante ' + Restaurante.nome + '!' );
     console.log("Na Pandemia, só trabalhamos com nosso Menu Degustação Abaixo:");
     console.log(Restaurante.cardapioDegusta);
-    console.log("Aproveite sua experiênicia! Vive la France!!!!")
+    console.log("Aproveite sua experiência! Vive la France!!!!")
 }
 
 //console.log(Restaurante.nome);
